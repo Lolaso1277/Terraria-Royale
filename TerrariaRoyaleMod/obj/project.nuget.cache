@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/1mXoxYK4fdrKpv7YXALs8BuvH1EEeFHa4+XwybaKF2Fhxpq+CQKtzBk/7WdQxGMIETihZSvQrk8WqrvCxf7ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zarat\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TerrariaRoyaleMod\\TerrariaRoyaleMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zarat\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
