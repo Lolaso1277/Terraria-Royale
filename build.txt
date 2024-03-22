@@ -1,0 +1,3 @@
+displayName = Terraria Royale
+author = Lolaso, Potato
+version = 0.1
